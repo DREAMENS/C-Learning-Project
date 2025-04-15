@@ -1,0 +1,24 @@
+# 编译生成的文件
+*.exe
+*.out
+*.app
+
+# IDE配置文件
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# 编译中间文件
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# 系统文件
+.DS_Store
+Thumbs.db 
